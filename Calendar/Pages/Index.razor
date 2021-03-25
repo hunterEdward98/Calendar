@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<div>
+    <iframe src="https://calendar.google.com/calendar/embed?src=s02nb16k89v0da55tu7il2s8fc%40group.calendar.google.com&ctz=America%2FChicago" style=" border: 0; width: 90vw; height:90vh;" ; frameborder="0" scrolling="no" />
+</div>
+@inject NavigationManager NavigationManager
+@using System.Threading;
+@code{
+
+    string calendarLink = "https://calendar.google.com/calendar/embed?src=s02nb16k89v0da55tu7il2s8fc%40group.calendar.google.com&ctz=America%2FChicago";
+    private IJSRuntime JSRuntime { get; set; }
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            var timer = new Timer(new TimerCallback(_ =>
+            {
+                NavigationManager.NavigateTo(NavigationManager.Uri, forceLoad: true);
+            }), null, 200000, 200000);
+        }
+    }
+}
