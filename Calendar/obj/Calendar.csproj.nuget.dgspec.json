@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hescheel\\Documents\\Calendar-App\\Calendar\\Calendar.csproj": {}
+    "C:\\Users\\hescheel\\Documents\\Calendar\\Calendar\\Calendar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hescheel\\Documents\\Calendar-App\\Calendar\\Calendar.csproj": {
+    "C:\\Users\\hescheel\\Documents\\Calendar\\Calendar\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hescheel\\Documents\\Calendar-App\\Calendar\\Calendar.csproj",
+        "projectUniqueName": "C:\\Users\\hescheel\\Documents\\Calendar\\Calendar\\Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "C:\\Users\\hescheel\\Documents\\Calendar-App\\Calendar\\Calendar.csproj",
+        "projectPath": "C:\\Users\\hescheel\\Documents\\Calendar\\Calendar\\Calendar.csproj",
         "packagesPath": "C:\\Users\\hescheel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hescheel\\Documents\\Calendar-App\\Calendar\\obj\\",
+        "outputPath": "C:\\Users\\hescheel\\Documents\\Calendar\\Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

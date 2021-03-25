@@ -40,3 +40,4 @@ C:\Users\hescheel\Documents\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.d
 C:\Users\hescheel\Documents\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.pdb
 C:\Users\hescheel\Documents\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.genruntimeconfig.cache
 C:\Users\hescheel\Documents\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.csproj.CopyComplete
+C:\Users\hescheel\Documents\Calendar\Calendar\obj\Debug\netcoreapp3.1\Calendar.csprojAssemblyReference.cache
